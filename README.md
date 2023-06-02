@@ -1,0 +1,1 @@
+# 10 Advanced Ruby Code Challenges by [CodeAcademy](https://www.codecademy.com/resources/blog/advanced-ruby-code-challenges/)
