@@ -29,7 +29,7 @@ def bonus(days)
     # add together
     #bonus = target_threshold + first_tier_bonus + second_tier_bonus + third_tier_bonus
     #bonus
-
+   
     bonus = []
     bonus << target_threshold = (target_threshold_array & num_days_array).size * 0
     bonus << first_tier_bonus = (first_tier_array & num_days_array).size * 365

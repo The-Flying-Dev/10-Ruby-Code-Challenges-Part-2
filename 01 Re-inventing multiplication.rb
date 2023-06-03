@@ -6,9 +6,11 @@
 def multiply(num1, num2)
     count = 0
     total = 0
-    until count == num2
+    until count == num2  # while count < num2
         total += num1 
         count += 1
     end
     total
 end
+
+
